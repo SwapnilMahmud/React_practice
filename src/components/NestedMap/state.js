@@ -27,7 +27,6 @@ export default class state extends Component {
         <h3>Count:{count}</h3>
         <button onClick={this.handleIncrement}>+</button>
         <button onClick={this.handleDecrement}>-</button>
-
       </div>
     )
   }

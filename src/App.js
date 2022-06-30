@@ -4,6 +4,7 @@ import Card from "./components/NestedMap/Card";
 import Cardone from "./components/NestedMap/Cardone";
 import Bootstrap from "./components/NestedMap/bootstrapuse";
 import STATE from "./components/NestedMap/state";
+import LoginPanel from "./components/LoginPanel/Index";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Cardone name="calss components"/>
       <Bootstrap/>
       <STATE/>
+      <LoginPanel/>
     </div>
   );
 }
