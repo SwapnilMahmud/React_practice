@@ -1,10 +1,7 @@
 import React from "react"; 
-<<<<<<< HEAD
-//mahmud
-=======
 
 //Mahmud Siddeky swapnil
->>>>>>> Nested
+
 function card(props){
 return(
 
