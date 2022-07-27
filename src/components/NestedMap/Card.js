@@ -1,6 +1,6 @@
 import React from "react"; 
 
-//Mahmud Siddeky
+//Mahmud Siddeky swapnil
 function card(props){
 return(
 
