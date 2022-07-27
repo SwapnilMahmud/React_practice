@@ -1,5 +1,6 @@
 import React from "react"; 
 
+//Mahmud Siddeky
 function card(props){
 return(
 
